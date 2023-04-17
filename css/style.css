@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background-color:cadetblue}
+
+ht {
+	font-family:Impact, Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"}
+
+.container
+{background-color: white;
+	border: 12px solid #0274C7}
